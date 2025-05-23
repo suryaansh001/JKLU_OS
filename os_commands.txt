@@ -1,0 +1,45 @@
+alias gc='git commit'
+#shortcut creation --->ln -s softli sl 
+#ln softli hdl ___--->hardlink filename and link name
+
+#hell p _---> command --help 
+then detiaks will appear ;; 'q' to exit
+
+#head --->> prints starting 10 lines of a file 
+#tail --->> prints last 10 lines 
+eg == head -n 3 etc/passwd
+
+#less ====>> same work (it does not exit after printing the content ofthefile )
+
+------------------------------------------------------------------------------
+#creating multi[le files
+1)touch song(1..20).mp3
+2)
+
+
+-----------------------------------------------------------------------------
+2) rm *   ====> rm 
+
+----------------------------
+findig a file
+
+find /etc -name "passwd"
+--------------------------------------------
+#grep 
+grep  'contetnt; to serch ' directory/to/search/
+
+-------------------------------------------------------------------------------------
+downloading using terminal
+
+wget {link to website}
+------------------------------------------------------------------------------------
+changing ip address 
+
+----------------------
+
+ssh username ip address
+
+
+----------------------------------------------------------------------------------
+ssh-keygen
+ssh-copyid
